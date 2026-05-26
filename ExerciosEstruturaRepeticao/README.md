@@ -1,18 +1,25 @@
-## Getting Started
+# 🔁 Exercícios — Estrutura de Repetição
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Exercícios em Java sobre estruturas de repetição desenvolvidos durante o **Bootcamp Santander 2026**.
 
-## Folder Structure
+## 📋 Exercícios
 
-The workspace contains two folders by default, where:
+| # | Arquivo | Descrição |
+|---|---------|-----------|
+| 1 | `Tabuada.java` | Gera a tabuada (1 a 10) de um número informado pelo usuário |
+| 2 | `IndiceMassa.java` | Calcula o IMC do usuário e exibe a classificação correspondente |
+| 3 | `ParesImpares.java` | Lista todos os números pares ou ímpares em um intervalo, em ordem decrescente |
+| 4 | `App.java` | Lê números enquanto forem divisíveis pelo número inicial informado |
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📁 Estrutura
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+```
+ExerciosEstruturaRepeticao/
+├── src/   # Código-fonte Java
+└── bin/   # Arquivos compilados (gerado automaticamente)
+```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tecnologias
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java
+- VS Code
