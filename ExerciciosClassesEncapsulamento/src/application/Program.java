@@ -51,9 +51,6 @@ public class Program {
          }
       }
 
-      System.out.println("\n========== EXERCÍCIO 3: PET ==========");
-      new PetMenu().executar(sc);
-
       sc.close();
    }
 }
