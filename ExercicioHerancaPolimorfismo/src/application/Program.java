@@ -50,6 +50,9 @@ public class Program {
                     case EXERCICIO_RELOGIO:
                         getClock(sc);
                         break;
+                    case SAIR:
+                        System.out.println("Saindo....");
+                        break;
                     default:
                         System.out.println("\n[!] Opção inválida. Escolha um número do menu.");
                 }

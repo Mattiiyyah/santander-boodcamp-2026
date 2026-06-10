@@ -31,4 +31,3 @@ Como a ideia era focar em **Encapsulamento**, eu fiz questão de proteger os atr
 - **Organização**: Separei os modelos (`entities`) da lógica de execução (`application`), mantendo o código bem limpo e fácil de ler.
 
 ---
-Bora codar! Qualquer dica sobre design patterns, Clean Architecture ou melhorias no código é super bem-vinda! 🚀

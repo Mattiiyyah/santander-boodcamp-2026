@@ -30,4 +30,3 @@ O foco principal foi **reaproveitamento de código** e organização da **Hierar
 - **Encapsulamento contínuo**: Continuei blindando as classes, protegendo atributos e garantindo que as regras de negócio fossem respeitadas nos `getters` e `setters`.
 
 ---
-Bora codar! Qualquer dica sobre design patterns ou melhorias no código é super bem-vinda! 🚀

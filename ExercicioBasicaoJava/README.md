@@ -23,4 +23,3 @@ Em vez de fazer só as contas cruas de uma vez, eu resolvi dar uma incrementada:
 Fiz tudo isso mais pra treinar a lógica, o uso de `Scanner`, classes de matemática (`Math`) e fixar bem os loops (`do-while` salvou demais aqui).
 
 ---
-Bora codar! Qualquer dica é super bem-vinda! 🚀

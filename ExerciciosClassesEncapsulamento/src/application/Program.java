@@ -42,6 +42,9 @@ public class Program {
                   System.out.println("\n========== EXERCÍCIO 3: PET ==========");
                   new PetMenu().executar(sc);
                   break;
+               case SAIR:
+                  System.out.println("Saindo....");
+                  break;
                default:
                   System.out.println("\n[!] Opção inválida. Escolha um número do menu.");
             }
