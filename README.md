@@ -25,5 +25,4 @@ Aqui estão os códigos, exercícios e projetos desenvolvidos ao longo do curso:
 - **Inteligência Artificial**: Integração com APIs como Google Gemini e Whisper.
 
 ---
-Sinta-se à vontade para explorar os códigos! ☕💻🤖
-Sinta-se à vontade para explorar os códigos! ☕💻🤖
+Sinta-se à vontade para explorar os códigos! ☕💻😎
