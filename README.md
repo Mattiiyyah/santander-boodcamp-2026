@@ -1,9 +1,4 @@
 # Santander Bootcamp 2026 - AI Java Back-end
-# Santander Bootcamp 2026 - AI Java Back-end
-
-Repositório de estudos do **Santander Bootcamp 2026** (trilha AI Java Back-end), oferecido pela Santander Open Academy em parceria com a DIO.
-
-## 📁 Estrutura do Repositório
 
 Aqui estão os códigos, exercícios e projetos desenvolvidos ao longo do curso:
 Repositório de estudos do **Santander Bootcamp 2026** (trilha AI Java Back-end), oferecido pela Santander Open Academy em parceria com a DIO.
